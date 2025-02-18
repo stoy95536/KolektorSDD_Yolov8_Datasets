@@ -11,4 +11,4 @@ Clarification: The path can be either an absolute path (e.g., /home/user/dataset
 
 data.yaml
 
-path: Datasets <-- If Can't Work, Try to use the Physical path.
+path: Datasets <-- If Can't Work, Try to use the Absolute path.
